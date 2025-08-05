@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+body {
+    background-color: #d9ddd5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+	width: 1100px;
+    background-color: #d9ddd5;
+    padding: 20px;
+}
+
+imageContainer {
+    text-align: center;
+	margin-bottom: 20px;
+}
+
+td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+td img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+}
+
+.col13 {
+	width: 200px
+}
+
+.col2 {
+	width: 600px;
+	text-align: center;
+	vertical-align: middle;
+}
+.heading {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+	text-align:center;
+}
+
+#floorplan {
+	text-align: center;
+}
